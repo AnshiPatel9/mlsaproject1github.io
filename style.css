@@ -29,7 +29,7 @@ nav{
 .logo{
     height: 50px;
     width: 100%;
-    background-image:url(../img/img/amazon_logo.png) ;
+    background-image:url(./img/img/amazon_logo.png) ;
     background-size: cover;
 
     /* border: 2px solid white; */
@@ -143,7 +143,7 @@ background-color:#fafcfc;
 .nav-language .country-image{
     width: 20px;
     height: 16px;
-    background-image: url(../img/img/country.png);
+    background-image: url(./img/img/country.png);
     background-size: cover;
     background-position: center;
     margin: 0 3px 11px 5px;
